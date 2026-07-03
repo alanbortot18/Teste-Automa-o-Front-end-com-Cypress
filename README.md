@@ -1,6 +1,5 @@
-#Relatório de Testes de Automação de Front-end com Cypress
+Relatório de Testes de Automação de Front-end com Cypress
 
-Integrantes: Alan Junior Bortot  2040069; João ; Pedro
 Site: Mercado Livre (https://www.mercadolivre.com.br/)
 
 1. Identificação dos Cenários de Teste
